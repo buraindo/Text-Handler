@@ -1,0 +1,9 @@
+C:\Users\Buraindo\source\repos\TextHandler\TextHandler\bin\Release\TextHandler.exe.config
+C:\Users\Buraindo\source\repos\TextHandler\TextHandler\bin\Release\TextHandler.exe
+C:\Users\Buraindo\source\repos\TextHandler\TextHandler\bin\Release\TextHandler.pdb
+C:\Users\Buraindo\source\repos\TextHandler\TextHandler\obj\Release\ReverseString.MainForm.resources
+C:\Users\Buraindo\source\repos\TextHandler\TextHandler\obj\Release\TextHandler.Properties.Resources.resources
+C:\Users\Buraindo\source\repos\TextHandler\TextHandler\obj\Release\TextHandler.csproj.GenerateResource.cache
+C:\Users\Buraindo\source\repos\TextHandler\TextHandler\obj\Release\TextHandler.csproj.CoreCompileInputs.cache
+C:\Users\Buraindo\source\repos\TextHandler\TextHandler\obj\Release\TextHandler.exe
+C:\Users\Buraindo\source\repos\TextHandler\TextHandler\obj\Release\TextHandler.pdb
